@@ -3,4 +3,6 @@ Deze repository is voor Onderzoek &amp; Innovatie om ervaring op te gaan doen me
 
 Dit is de eerste aanpassing aan het hello-world script.
 
+NIEUW! Aangepast door Adriaan
+
 Hello, Hello!
